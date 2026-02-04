@@ -6,7 +6,7 @@ layout: default
   <img src="img/half.png" alt="HALF" style="width: 300px; max-width: 80%;" />
 </p>
 
-Tackle pivotal and long-standing open problems in harmonic analysis, and formalize their proofs in real-time at the University of Bonn.
+Our goal is to tackle pivotal and long-standing open problems in harmonic analysis, and formalize their proofs in real-time at the University of Bonn.
 
 This shows that it is feasible for mathematicians to verify the correctness of their own proofs.
 
