@@ -51,4 +51,4 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 
 <!-- add member photos -->
 
-![Bonn](img/bonnlogo.jpeg) ![ERC](img/ERC_Logo.PNG) ![Lean](img/lean_logo.svg)
+<!-- ![Bonn](img/bonnlogo.jpeg) ![ERC](img/ERC_Logo.PNG) ![Lean](img/lean_logo.svg) -->
