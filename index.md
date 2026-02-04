@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<!-- ## Mission -->
-
-![HALF](img/half.png)
+<p align="center">
+  <img src="img/half.png" alt="HALF" style="width: 300px; max-width: 80%;" />
+</p>
 
 Tackle pivotal and long-standing open problems in harmonic analysis, and formalize their proofs in real-time at the University of Bonn.
 
