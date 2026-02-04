@@ -4,7 +4,7 @@ layout: default
 
 <!-- ## Mission -->
 
-![HALF](half.png)
+![HALF](img/half.png)
 
 Tackle pivotal and long-standing open problems in harmonic analysis, and formalize their proofs in real-time at the University of Bonn.
 
@@ -51,4 +51,4 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 
 <!-- add member photos -->
 
-![Bonn](bonnlogo.jpeg) ![ERC](ERC_Logo.PNG) ![Lean](lean_logo.svg)
+![Bonn](img/bonnlogo.jpeg) ![ERC](img/ERC_Logo.PNG) ![Lean](img/lean_logo.svg)
