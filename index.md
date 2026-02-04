@@ -31,14 +31,14 @@ Challenges in harmonic analysis:
 
 ### Postdocs
 
-* [Tainara Borges](https://sites.google.com/brown.edu/tainaraborgeswebpage/home) (starting August 2026)
-* [Leopold Mayer](https://math.washington.edu/people/leopold-mayer) (starting September 2026)
+* [Tainara Borges](https://sites.google.com/brown.edu/tainaraborgeswebpage/home) (starting Summer 2026)
+* [Leopold Mayer](https://math.washington.edu/people/leopold-mayer) (starting Summer 2026)
 * [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/)
-* [Stefanos Lappas](https://sites.google.com/view/stefanos-lappas/) (starting April 2026)
+* [Stefanos Lappas](https://sites.google.com/view/stefanos-lappas/) (starting Spring 2026)
 
 ### PhD Students
 
-* [Lua Viana Reis](https://github.com/lua-vr) (starting April 2026)
+* [Lua Viana Reis](https://github.com/lua-vr) (starting Spring 2026)
 
 
 ## Jobs
