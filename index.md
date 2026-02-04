@@ -2,8 +2,7 @@
 layout: default
 ---
 
-
-## Mission
+<!-- ## Mission -->
 
 Tackle pivotal and long-standing open problems in harmonic analysis, and formalize their proofs in real-time at the University of Bonn.
 
@@ -45,3 +44,5 @@ Challenges in harmonic analysis:
 
 * We are looking for PhD candidates to join our project! You can apply via the [BIGS website](https://www.mathematics.uni-bonn.de/hsm-school/phd-admission/phd-admission) (in April or November)
 * We are looking for student research assistants to join the Lean formalization effort. Contact Floris van Doorn if you are interested (only available for students in Bonn).
+
+<!-- Add university/ERC logo, add member photos, add HALF logo -->
