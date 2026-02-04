@@ -4,9 +4,11 @@ layout: default
 
 <!-- ## Mission -->
 
+![HALF](half.png)
+
 Tackle pivotal and long-standing open problems in harmonic analysis, and formalize their proofs in real-time at the University of Bonn.
 
-This way, we want to show that it is feasible for authors of mathematical papers to verify the correctness of their own proofs.
+This shows that it is feasible for mathematicians to verify the correctness of their own proofs.
 
 Challenges in harmonic analysis:
 * Find estimates for multilinear singular integrals;
@@ -14,6 +16,8 @@ Challenges in harmonic analysis:
 * Find new estimates and convergence results for Ergodic averages;
 <!-- prove pointwise convergence of ergodic averages for two commuting transformations -->
 * Develop nonlinear analogue of Carleson's theorem.
+
+Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://leanprover-community.github.io/).
 
 ## News
 
@@ -46,3 +50,5 @@ Challenges in harmonic analysis:
 * We are looking for student research assistants to join the Lean formalization effort. Contact Floris van Doorn if you are interested (only available for students in Bonn).
 
 <!-- Add university/ERC logo, add member photos, add HALF logo -->
+
+![Bonn](bonnlogo.jpeg) ![ERC](ERC_Logo.PNG) ![Lean](lean_logo.svg)
