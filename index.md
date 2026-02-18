@@ -21,7 +21,7 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 
 ## News
 
-* This project will start April 2026.
+* We will start this project in April 2026.
 
 ## Team
 
