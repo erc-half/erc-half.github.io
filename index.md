@@ -35,8 +35,10 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 ### Postdocs
 
 * [Tainara Borges](https://sites.google.com/brown.edu/tainaraborgeswebpage/home) (starting Summer 2026)
+* [Polona Durcik](https://www.chapman.edu/our-faculty/polona-durcik.aspx) (visiting researcher Summer 2026)
 * [Stefanos Lappas](https://sites.google.com/view/stefanos-lappas/) (starting Spring 2026)
 * [Leopold Mayer](https://math.washington.edu/people/leopold-mayer) (starting Fall 2026)
+* [Joris Roos](https://www.uml.edu/profile/joris_roos)(visiting researcher Spring 2026)
 * [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/)
 
 ### PhD Students
