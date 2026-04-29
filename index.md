@@ -50,6 +50,13 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 * [Joris Roos](https://www.uml.edu/profile/joris_roos) (starting Spring 2026)
 * [Lenka Slavı́ková](https://www.karlin.mff.cuni.cz/~slavikova) (starting Summer 2026)
 
+### Student Research Assistants:
+
+* [Alexander Brodbelt Lopez] (starting Summer 2026)
+* [Leo Diedering]
+* [Pan Lin]
+* [Felix Pernegger]
+
 ## Jobs
 
 * We are looking for PhD candidates to join our project! You can apply via the [BIGS website](https://www.mathematics.uni-bonn.de/hsm-school/phd-admission/phd-admission) (in April or November)
