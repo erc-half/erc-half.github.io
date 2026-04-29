@@ -52,10 +52,10 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 
 ### Student Research Assistants:
 
-* [Alexander Brodbelt Lopez] (starting Summer 2026)
-* [Leo Diedering]
-* [Pan Lin]
-* [Felix Pernegger]
+* Alexander Brodbelt Lopez (starting Summer 2026)
+* Leo Diedering
+* Pan Lin
+* Felix Pernegger
 
 ## Jobs
 
