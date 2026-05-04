@@ -36,13 +36,13 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 
 * [Tainara Gobetti Borges](https://sites.google.com/brown.edu/tainaraborgeswebpage/home) (starting Summer 2026)
 * [Pavel Gubkin](https://chebyshev.spbu.ru/en/people/pavel-v-gubkin/) (starting Fall 2026)
-* [Stefanos Lappas](https://sites.google.com/view/stefanos-lappas/) (starting Spring 2026)
+* [Stefanos Lappas](https://sites.google.com/view/stefanos-lappas/) 
 * [Leopold Mayer](https://math.washington.edu/people/leopold-mayer) (starting Fall 2026)
 * [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/)
 
 ### PhD Students
 
-* [Lua Viana Reis](https://github.com/lua-vr) (starting Spring 2026)
+* [Lua Viana Reis](https://github.com/lua-vr)
 
 ### Visiting Researchers
 
@@ -54,6 +54,7 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 
 * Alexander Brodbelt Lopez (starting Summer 2026)
 * Leo Diedering
+* Evgenia Karunus (starting Summer 2026)
 * Pan Lin
 * Felix Pernegger
 
