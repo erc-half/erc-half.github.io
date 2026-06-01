@@ -47,7 +47,8 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 ### Visiting Researchers
 
 * [Polona Durcik](https://www.chapman.edu/our-faculty/polona-durcik.aspx) (starting Summer 2026)
-* [Joris Roos](https://www.uml.edu/profile/joris_roos) (starting Spring 2026)
+* [Lasha Ephremidze](https://tcms.org.ge/ephremidze-lasha/) (starting Summer 2026)
+* [Joris Roos](https://www.uml.edu/profile/joris_roos)
 * [Lenka Slavı́ková](https://www.karlin.mff.cuni.cz/~slavikova) (starting Summer 2026)
 
 ### Student Research Assistants:
