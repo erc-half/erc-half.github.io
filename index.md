@@ -25,18 +25,20 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 
 ## Team
 
+<p align="center">
+  <img src="img/group_photo.jpg" alt="HALF" style="width: 600px; max-width: 80%;" />
+</p>
+
 ### Principal Investigators
 
 * [Floris van Doorn](https://florisvandoorn.com)
 * [Christoph Thiele](https://www.math.uni-bonn.de/~thiele/)
 
-<!-- Visitor: Joris Roos -->
-
 ### Postdocs
 
 * [Tainara Gobetti Borges](https://sites.google.com/brown.edu/tainaraborgeswebpage/home) (starting Summer 2026)
 * [Pavel Gubkin](https://chebyshev.spbu.ru/en/people/pavel-v-gubkin/) (starting Fall 2026)
-* [Stefanos Lappas](https://sites.google.com/view/stefanos-lappas/) 
+* [Stefanos Lappas](https://sites.google.com/view/stefanos-lappas/)
 * [Leopold Mayer](https://math.washington.edu/people/leopold-mayer) (starting Fall 2026)
 * [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/)
 
