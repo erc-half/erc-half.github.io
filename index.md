@@ -36,7 +36,7 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 
 ### Postdocs
 
-* [Tainara Gobetti Borges](https://sites.google.com/brown.edu/tainaraborgeswebpage/home) (starting Summer 2026)
+* [Tainara Gobetti Borges](https://sites.google.com/brown.edu/tainaraborgeswebpage/home)
 * [Pavel Gubkin](https://chebyshev.spbu.ru/en/people/pavel-v-gubkin/) (starting Fall 2026)
 * [Stefanos Lappas](https://sites.google.com/view/stefanos-lappas/)
 * [Leopold Mayer](https://math.washington.edu/people/leopold-mayer) (starting Fall 2026)
@@ -44,6 +44,7 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 
 ### PhD Students
 
+* [Pauwel Van Den Eeckhaut]
 * [Lua Viana Reis](https://github.com/lua-vr)
 
 ### Visiting Researchers
@@ -61,6 +62,7 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 * Evgenia Karunus
 * Pan Lin
 * Felix Pernegger
+* Mara Silge (starting Fall 2026)
 
 ## Jobs
 
