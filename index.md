@@ -44,7 +44,7 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 
 ### PhD Students
 
-* [Pauwel Van Den Eeckhaut](https://be.linkedin.com/in/pauwel-van-den-eeckhaut-78746b1b2)
+* [Pauwel Van Den Eeckhaut](https://be.linkedin.com/in/pauwel-van-den-eeckhaut-78746b1b2) (starting Fall 2026)
 * [Lua Viana Reis](https://github.com/lua-vr)
 
 ### Visiting Researchers
