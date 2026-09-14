@@ -65,11 +65,14 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 * Felix Pernegger
 * Mara Silge (starting Fall 2026)
 
+## Papers and Preprints
+<!-- reverse chronological -->
+
+* *A blueprint for the formalization of norm-variation of multiple ergodic averages for commuting transformations*, Floris van Doorn, Polona Durcik, Joris Roos, Lenka Slavíková, Christoph Thiele. [arXiv preprint](https://arxiv.org/abs/2608.27321)
+* *Weighted Riesz--Kolmogorov criterion and multilinear extrapolation of compactness on variable Lebesgue spaces*, Spyridon Kakaroumpas, Stefanos Lappas. [arXiv preprint](arxiv.org/abs/2605.27165)
+
 ## Jobs
 
 * We are looking for PhD candidates to join our project! You can apply via the [BIGS website](https://www.mathematics.uni-bonn.de/hsm-school/phd-admission/phd-admission) (in April or November)
 * We are looking for student research assistants to join the Lean formalization effort. Contact Floris van Doorn if you are interested (only available for students in Bonn).
 
-<!-- add member photos -->
-
-<!-- ![Bonn](img/bonnlogo.jpeg) ![ERC](img/ERC_Logo.PNG) ![Lean](img/lean_logo.svg) -->
