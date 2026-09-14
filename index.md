@@ -19,9 +19,10 @@ Challenges in harmonic analysis:
 
 Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://leanprover-community.github.io/).
 
+<!--
 ## News
 
-* We will start this project in April 2026.
+* We started this project in April 2026. -->
 
 ## Team
 
