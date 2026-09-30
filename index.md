@@ -75,6 +75,6 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 
 ## Jobs
 
-* We are looking for PhD candidates to join our project! You can apply via the [BIGS website](https://www.mathematics.uni-bonn.de/hsm-school/phd-admission/phd-admission) (in April or November)
-* We are looking for student research assistants to join the Lean formalization effort. Contact Floris van Doorn if you are interested (only available for students in Bonn).
+* ~~We are looking for PhD candidates to join our project! You can apply via the [BIGS website](https://www.mathematics.uni-bonn.de/hsm-school/phd-admission/phd-admission) (in April or November)~~
+* ~~We are looking for student research assistants to join the Lean formalization effort. Contact Floris van Doorn if you are interested (only available for students in Bonn).~~
 
