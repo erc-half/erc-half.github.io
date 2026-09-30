@@ -69,6 +69,7 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 ## Papers and Preprints
 <!-- reverse chronological -->
 
+* *Formalizing Carleson's Theorem in Lean*, Lars Becker, María Inés de Frutos-Fernández, Leo Diedering, Floris van Doorn, Sébastien Gouëzel, Evgenia Karunus, Edward van de Meent, Pietro Monticone, Jasper Mulder-Sohn, Jim Portegies, Joris Roos, Michael Rothgang, James Sundstrom, Jeremy Tan. [arXiv preprint](https://arxiv.org/abs/2609.313340).
 * *A blueprint for the formalization of norm-variation of multiple ergodic averages for commuting transformations*, Floris van Doorn, Polona Durcik, Joris Roos, Lenka Slavíková, Christoph Thiele. [arXiv preprint](https://arxiv.org/abs/2608.27321)
 * *Weighted Riesz--Kolmogorov criterion and multilinear extrapolation of compactness on variable Lebesgue spaces*, Spyridon Kakaroumpas, Stefanos Lappas. [arXiv preprint](arxiv.org/abs/2605.27165)
 
