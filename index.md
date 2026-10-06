@@ -38,15 +38,15 @@ Our formalization will use [Lean](https://lean-lang.org/) and [Mathlib](https://
 ### Postdocs
 
 * [Tainara Gobetti Borges](https://sites.google.com/brown.edu/tainaraborgeswebpage/home)
-* [Pavel Gubkin](https://chebyshev.spbu.ru/en/people/pavel-v-gubkin/) (starting Fall 2026)
+* [Pavel Gubkin](https://chebyshev.spbu.ru/en/people/pavel-v-gubkin/)
 * [Stefanos Lappas](https://sites.google.com/view/stefanos-lappas/)
-* [Leopold Mayer](https://math.washington.edu/people/leopold-mayer) (starting Fall 2026)
+* [Leopold Mayer](https://math.washington.edu/people/leopold-mayer)
 * [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/)
 
 ### PhD Students
 
 * [Koen Bresters](https://www.mi.fu-berlin.de/math/groups/top/members/Master/Bresters.html) (starting Fall 2026)
-* [Pauwel Van Den Eeckhaut](https://be.linkedin.com/in/pauwel-van-den-eeckhaut-78746b1b2) (starting Fall 2026)
+* [Pauwel Van Den Eeckhaut](https://be.linkedin.com/in/pauwel-van-den-eeckhaut-78746b1b2)
 * [Lua Viana Reis](https://github.com/lua-vr)
 
 ### Visiting Researchers
